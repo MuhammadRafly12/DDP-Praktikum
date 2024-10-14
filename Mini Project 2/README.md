@@ -10,8 +10,7 @@ Tema : Toko Fried Chiken
 
 FLOWCHART
 
-![Flowchart Mini Project 2 Muhammad Rafly 2409116118 drawio](https://github.com/user-attachments/assets/ba2ccabe-7fd3-4111-8c88-450d1124d5d5)
-
+![Mini Project 2 Muhammad Rafly 2409116118 drawio](https://github.com/user-attachments/assets/ee4c3c75-09d3-4377-bf35-ce90748eb809)
 
 Gambar di atas adalah flowchart dari program yang saya buat
 
